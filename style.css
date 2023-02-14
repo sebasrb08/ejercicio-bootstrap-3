@@ -1,16 +1,13 @@
 
 body{
-    background-image: url(./images/pexels-rodnae-productions-7188096.jpg);
+    background-image: url(./images/pexels-rodnae-productions-7188096\(1\).jpg);
     opacity: 0.9;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-img{
+.img{
     height: 80px;
     width: 80px;
 }
-.tlf{
-    height: 170px;
-    width: 170px;
-}
+
