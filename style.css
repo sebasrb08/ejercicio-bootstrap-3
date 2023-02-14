@@ -1,13 +1,18 @@
 
 body{
-    background-image: url(./images/pexels-rodnae-productions-7188096\(1\).jpg);
+    background-image: url();
     opacity: 0.9;
-    background-position: center;
+    background-position:center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 .img{
     height: 80px;
     width: 80px;
 }
-
+.hover2{
+    visibility:hidden;
+}
+.card:hover .hover2{
+    visibility: visible;
+}
