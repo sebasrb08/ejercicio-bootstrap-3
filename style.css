@@ -1,10 +1,7 @@
 
 body{
-    background-image: url();
-    opacity: 0.9;
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size:cover;
+    background: rgb(38,29,23);
+    background: linear-gradient(90deg, rgba(38,29,23,1) 21%, rgba(34,195,54,1) 100%, rgba(34,140,193,1) 100%); 
 }
 .img{
     height: 80px;
@@ -15,4 +12,5 @@ body{
 }
 .card:hover .hover2{
     visibility: visible;
+    
 }
